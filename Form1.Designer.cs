@@ -76,7 +76,7 @@
             Controls.Add(panel2);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Breakout Game, by James Chen (S1125566)";
+            Text = "Breakout Game, by WanShun(411215248)";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ResumeLayout(false);
